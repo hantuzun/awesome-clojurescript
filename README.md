@@ -6,12 +6,14 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 ## Canvas
 - [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
 
+
 ## Client/Server Communication
 - [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 
 ## Date Serialization
 - [Cljson](https://github.com/tailrecursion/cljson) –  Clojure/ClojureScript library for accelerated browser data deserialization.
+- [Transit](https://github.com/cognitect/transit-cljs) –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
 ## Data Visualition
@@ -24,8 +26,10 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 
 
-## Development 
+## Development
 - [lein-cljsbuild](http://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
+- [lein-fogwhell](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
+- [Ribol](http://docs.caudate.me/ribol/) –  Conditional restarts for clojure/clojurescript.
 
 
 ## Document Object Model
@@ -34,6 +38,8 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Dommy](https://github.com/Prismatic/dommy) –  A no-nonsense ClojureScript templating and DOM manipulation library.
 - [Enfocus](http://ckirkendall.github.io/enfocus-site/) –  DOM manipulation and templating library for ClojureScript inspired by Enlive.
 - [Hiccups](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
+- [Hickory](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
+- [Sablono](https://github.com/r0man/sablono) –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 
 ## Frameworks
@@ -41,6 +47,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Pedestal](https://github.com/pedestal/pedestal) – A set of libraries written in Clojure that aims to bring simplicity, power and focus to server-side development.
+- [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [WebFUI](https://github.com/drcode/webfui) –  Client-Side Web Framework for ClojureScript.
 
 
@@ -52,6 +59,9 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 ## Miscellaneous
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
+- [Instaparse](https://github.com/Engelberg/instaparse) – It aims to be the simplest way to build parsers in Clojure.
+- [om-tools](https://github.com/Prismatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
+- [Quil](https://github.com/quil/quil) – A processing and graphics programming library.dom
 
 
 ## Reactive Programming
@@ -73,17 +83,26 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Silk](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
 
-## Templates
-- [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
+## State Management
+- [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
+
+## Templates
+- [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
+- [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
 
 ## Testing
 - [clojurescript.text](https://github.com/cemerick/clojurescript.test) – A maximal port of clojure.test to ClojureScript.
+- [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 - [Specljs](http://speclj.com/specljs) – A TDD/BDD framework for Clojure and ClojureScript.
 
 
 ## Web Application
 - [Ring](https://github.com/ring-clojure/ring) – Ring is a Clojure web applications library inspired by Python's WSGI and Ruby's Rack.
+
+
+## Web Sockets
+- [Sente](https://github.com/ptaoussanis/sente) –  Clojure(Script) + core.async + WebSockets/Ajax.
 
 
 ## License
