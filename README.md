@@ -3,35 +3,35 @@
 A curated list of ClojureScript frameworks, libraries and wrappers.
 
 
-## Canvas
+### Canvas
 - [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
 
 
-## Client/Server Communication
+### Client/Server Communication
 - [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 
-## Date Serialization
+### Date Serialization
 - [Cljson](https://github.com/tailrecursion/cljson) –  Clojure/ClojureScript library for accelerated browser data deserialization.
 - [Transit](https://github.com/cognitect/transit-cljs) –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
-## Data Visualition
+### Data Visualition
 - [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
 
 
-## Databases
+### Databases
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 
 
-## Development
+### Development
 - [lein-cljsbuild](http://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
 - [lein-fogwhell](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Ribol](http://docs.caudate.me/ribol/) –  Conditional restarts for clojure/clojurescript.
 
 
-## Document Object Model
+### Document Object Model
 - [cljs-binding](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
 - [Crate](https://github.com/ibdknox/crate) –  A ClojureScript implementation of Hiccup.
 - [Dommy](https://github.com/Prismatic/dommy) –  A no-nonsense ClojureScript templating and DOM manipulation library.
@@ -43,11 +43,11 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Sablono](https://github.com/r0man/sablono) –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 
-## Internationalization
+### Internationalization
 - [Tower](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
 
 
-## Frameworks
+### Frameworks
 - [Coils](http://coils.cc/) - Build enterprise ready web apps with Clojurescript and React.js, faster than ever.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
@@ -56,13 +56,13 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [WebFUI](https://github.com/drcode/webfui) –  Client-Side Web Framework for ClojureScript.
 
 
-## JavaScript Interoperability
+### JavaScript Interoperability
 - [Yayq](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
 - [Purnam](http://purnam.github.io/purnam/) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
 - [Pylon](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
 
-## Miscellaneous
+### Miscellaneous
 - [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
@@ -71,43 +71,47 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.dom
 
 
-## Reactive Programming
+### Reactive Programming
 - [rx-cljs](https://github.com/leonardoborges/rx-cljs) –  A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 - [Yolk](https://github.com/Cicayda/yolk) –  A thin ClojureScript wrapper around bacon.js.
 
 
-## React.js Interfaces
+### React.js Interfaces
 - [Om](https://github.com/omcljs/om) — A powerful, makes uses of object oriented structures of React.
 - [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
 
 
-## Routing
+### Routing
 - [Secretary](https://github.com/gf3/secretary) –  A client-side router for ClojureScript.
 - [Silk](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
 
-## State Management
+### State Management
 - [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
 
-## Templates
+### Templates
 - [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
 - [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
 
-## Testing
+### Testing
 - [clojurescript.text](https://github.com/cemerick/clojurescript.test) – A maximal port of clojure.test to ClojureScript.
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 - [Specljs](http://speclj.com/specljs) – A TDD/BDD framework for Clojure and ClojureScript.
 
 
-## Validation
+### Validation
 - [Bouncer](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
 
 
-## Web Sockets
+### Web Sockets
 - [Sente](https://github.com/ptaoussanis/sente) –  Clojure(Script) + core.async + WebSockets/Ajax.
+
+
+## Contributions
+All contributions are welcome. Please read the [Contributions](CONTRIBUTIONS.md) file before opening a pull request.
 
 
 ## License
