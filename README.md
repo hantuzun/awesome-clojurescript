@@ -1,6 +1,6 @@
-# clojurescript-awesome
+# ClojureScript Awesome
 
-A curated list of Clojurescript frameworks, libraries and wrappers.
+A curated list of ClojureScript frameworks, libraries and wrappers.
 
 
 
