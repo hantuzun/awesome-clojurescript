@@ -39,7 +39,13 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Enfocus](http://ckirkendall.github.io/enfocus-site/) –  DOM manipulation and templating library for ClojureScript inspired by Enlive.
 - [Hiccups](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Hickory](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
+- [json-html](https://github.com/yogthos/json-html) –  Provide JSON and get a DOM node with a human representation of that JSON.
+- [Kioo](https://github.com/ckirkendall/kioo) - DOM manipulation and templating library for Facebook's React and Om in ClojureScript. 
 - [Sablono](https://github.com/r0man/sablono) –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
+
+
+## Internationalization
+- [Tower](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
 
 
 ## Frameworks
@@ -58,8 +64,10 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 
 ## Miscellaneous
+- [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 - [Instaparse](https://github.com/Engelberg/instaparse) – It aims to be the simplest way to build parsers in Clojure.
+- [markdown-clj](https://github.com/yogthos/markdown-clj) –  Markdown parser in Clojure/ClojureScript.
 - [om-tools](https://github.com/Prismatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.dom
 
@@ -96,6 +104,9 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 - [Specljs](http://speclj.com/specljs) – A TDD/BDD framework for Clojure and ClojureScript.
 
+
+## Validation
+- [Bouncer](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
 
 ## Web Application
 - [Ring](https://github.com/ring-clojure/ring) – Ring is a Clojure web applications library inspired by Python's WSGI and Ruby's Rack.
