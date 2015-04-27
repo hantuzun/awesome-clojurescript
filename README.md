@@ -70,6 +70,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 ## Routing
 - [Compojure](https://github.com/weavejester/compojure) – A small routing library for Ring that allows web applications to be composed of small, independent parts.
 - [Secretary](https://github.com/gf3/secretary) –  A client-side router for ClojureScript.
+- [Silk](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
 
 ## Templates
