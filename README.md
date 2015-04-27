@@ -21,7 +21,6 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 
 ## Databases
-- [clojure.java.jdbc](https://github.com/clojure/java.jdbc) – A low-level Clojure wrapper for JDBC-based access to databases.
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 
@@ -66,14 +65,13 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 ## Miscellaneous
 - [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
-- [Instaparse](https://github.com/Engelberg/instaparse) – It aims to be the simplest way to build parsers in Clojure.
+- [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) –  Markdown parser in Clojure/ClojureScript.
 - [om-tools](https://github.com/Prismatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.dom
 
 
 ## Reactive Programming
-- [Aleph](https://github.com/ztellman/aleph) – Asynchronous communication for Clojure.
 - [rx-cljs](https://github.com/leonardoborges/rx-cljs) –  A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 - [Yolk](https://github.com/Cicayda/yolk) –  A thin ClojureScript wrapper around bacon.js.
 
@@ -86,7 +84,6 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 
 ## Routing
-- [Compojure](https://github.com/weavejester/compojure) – A small routing library for Ring that allows web applications to be composed of small, independent parts.
 - [Secretary](https://github.com/gf3/secretary) –  A client-side router for ClojureScript.
 - [Silk](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
@@ -107,9 +104,6 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 ## Validation
 - [Bouncer](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
-
-## Web Application
-- [Ring](https://github.com/ring-clojure/ring) – Ring is a Clojure web applications library inspired by Python's WSGI and Ruby's Rack.
 
 
 ## Web Sockets
