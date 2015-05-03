@@ -47,15 +47,6 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Tower](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
 
 
-### Frameworks
-- [Coils](http://coils.cc/) - Build enterprise ready web apps with Clojurescript and React.js, faster than ever.
-- [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
-- [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
-- [Pedestal](https://github.com/pedestal/pedestal) – A set of libraries written in Clojure that aims to bring simplicity, power and focus to server-side development.
-- [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
-- [WebFUI](https://github.com/drcode/webfui) –  Client-Side Web Framework for ClojureScript.
-
-
 ### JavaScript Interoperability
 - [Yayq](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
 - [Purnam](http://purnam.github.io/purnam/) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
@@ -92,10 +83,6 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
 
-### Templates
-- [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
-- [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
-
 ### Testing
 - [clojurescript.text](https://github.com/cemerick/clojurescript.test) – A maximal port of clojure.test to ClojureScript.
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
@@ -106,12 +93,24 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Bouncer](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
 
 
+### Web Frameworks & Templates
+- [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
+- [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
+- [Clops](https://github.com/sveri/closp) – An opinioted, full stack and easy to use web framework.
+- [Coils](http://coils.cc/) - Build enterprise ready web apps with Clojurescript and React.js, faster than ever.
+- [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
+- [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
+- [Pedestal](https://github.com/pedestal/pedestal) – A set of libraries written in Clojure that aims to bring simplicity, power and focus to server-side development.
+- [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
+- [WebFUI](https://github.com/drcode/webfui) –  Client-Side Web Framework for ClojureScript.
+
+
 ### Web Sockets
 - [Sente](https://github.com/ptaoussanis/sente) –  Clojure(Script) + core.async + WebSockets/Ajax.
 
 
 ## Contributions
-All contributions are welcome. Please read the [Contributions](CONTRIBUTIONS.md) file before opening a pull request.
+All contributions are welcome. Please read the [Contributions](CONTRIBUTIONS.md) guide before opening a pull request.
 
 
 ## License
