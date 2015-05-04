@@ -1,4 +1,4 @@
-# Contributions
+# Contributing
 
 All contributions are welcome!
 

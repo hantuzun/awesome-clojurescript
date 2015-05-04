@@ -39,7 +39,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Hiccups](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Hickory](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 - [json-html](https://github.com/yogthos/json-html) –  Provide JSON and get a DOM node with a human representation of that JSON.
-- [Kioo](https://github.com/ckirkendall/kioo) - DOM manipulation and templating library for Facebook's React and Om in ClojureScript. 
+- [Kioo](https://github.com/ckirkendall/kioo) - DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
 - [Sablono](https://github.com/r0man/sablono) –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 
@@ -110,7 +110,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 
 ## Contributions
-All contributions are welcome. Please read the [Contributions](CONTRIBUTIONS.md) guide before opening a pull request.
+All contributions are welcome. Please read the [Contributing](CONTRIBUTING.md) guide before opening a pull request.
 
 
 ## License
