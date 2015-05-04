@@ -84,7 +84,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 
 ### Testing
-- [clojurescript.text](https://github.com/cemerick/clojurescript.test) – A maximal port of clojure.test to ClojureScript.
+- [clojurescript.test](https://github.com/cemerick/clojurescript.test) – A maximal port of clojure.test to ClojureScript.
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 - [Specljs](http://speclj.com/specljs) – A TDD/BDD framework for Clojure and ClojureScript.
 
