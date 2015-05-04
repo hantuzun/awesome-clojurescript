@@ -95,6 +95,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 ### Web Frameworks & Templates
 - [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
+- [Catacumba](https://funcool.github.io/catacumba/latest/) – An asynchronous and non-blocking web toolkit for Clojure built on top of ratpack and netty.
 - [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
 - [Clops](https://github.com/sveri/closp) – An opinioted, full stack and easy to use web framework.
 - [Coils](http://coils.cc/) - Build enterprise ready web apps with Clojurescript and React.js, faster than ever.
