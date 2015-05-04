@@ -27,7 +27,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 
 ### Development
 - [lein-cljsbuild](http://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
-- [lein-fogwhell](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
+- [lein-figwheel](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Ribol](http://docs.caudate.me/ribol/) –  Conditional restarts for clojure/clojurescript.
 
 
@@ -86,7 +86,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 ### Testing
 - [clojurescript.test](https://github.com/cemerick/clojurescript.test) – A maximal port of clojure.test to ClojureScript.
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
-- [Specljs](http://speclj.com/specljs) – A TDD/BDD framework for Clojure and ClojureScript.
+- [Speclj](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 
 
 ### Validation
