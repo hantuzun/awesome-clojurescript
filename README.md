@@ -59,7 +59,7 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) –  Markdown parser in Clojure/ClojureScript.
 - [om-tools](https://github.com/Prismatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
-- [Quil](https://github.com/quil/quil) – A processing and graphics programming library.dom
+- [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 
 
 ### Reactive Programming
