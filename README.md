@@ -43,6 +43,10 @@ A curated list of ClojureScript frameworks, libraries and wrappers.
 - [Sablono](https://github.com/r0man/sablono) –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 
+### HTTP Handler
+- [Castra](https://github.com/tailrecursion/castra) – An HTTP remote procedure call handler for Clojure.
+
+
 ### Internationalization
 - [Tower](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
 
