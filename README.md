@@ -1,6 +1,6 @@
 # ClojureScript Awesome
 
-A curated list of ClojureScript frameworks, libraries and wrappers.
+A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 
 
 ### Canvas
