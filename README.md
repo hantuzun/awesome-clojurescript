@@ -68,8 +68,9 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 
 
 ### Reactive Programming
-- [rx-cljs](https://github.com/leonardoborges/rx-cljs) –  A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
-- [Yolk](https://github.com/Cicayda/yolk) –  A thin ClojureScript wrapper around bacon.js.
+- [Javelin](https://github.com/tailrecursion/javelin) – A Functional Reactive Programming library for ClojureScript.
+- [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
+- [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
 
 ### React.js Interfaces
