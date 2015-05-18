@@ -60,6 +60,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 
 ### Miscellaneous
 - [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
+- [core.async](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
 - [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
