@@ -29,6 +29,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [lein-cljsbuild](http://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Ribol](http://docs.caudate.me/ribol/) –  Conditional restarts for clojure/clojurescript.
+- [shadow-build](https://github.com/thheller/shadow-build) – A ClojureScript build library capable of compiling multiple output files.
 
 
 ### Document Object Model
@@ -54,7 +55,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 
 ### JavaScript Interoperability
 - [CLJSJS](http://cljsjs.github.io/) – An easy way for Clojurescript developers to depend on Javascript libraries.
-- [jayq](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
+- [Jayq](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
 - [Purnam](http://purnam.github.io/purnam/) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
 - [Pylon](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
