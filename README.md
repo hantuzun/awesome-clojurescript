@@ -11,7 +11,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 
-### Date Serialization
+### Data Serialization
 - [Cljson](https://github.com/tailrecursion/cljson) –  Clojure/ClojureScript library for accelerated browser data deserialization.
 - [Transit](https://github.com/cognitect/transit-cljs) –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
