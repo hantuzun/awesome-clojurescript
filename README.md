@@ -7,21 +7,21 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
   - [Client/Server Communication](#clientserver-communication)
   - [Data Serialization](#data-serialization)
   - [Data Visualition](#data-visualition)
-  - [Databases](#databases)
+  - [Database](#database)
   - [Development](#development)
   - [Document Object Model](#document-object-model)
   - [HTTP Handler](#http-handler)
   - [Internationalization](#internationalization)
   - [JavaScript Interoperability](#javascript-interoperability)
   - [Miscellaneous](#miscellaneous)
+  - [React.js Interface](#reactjs-interface)
   - [Reactive Programming](#reactive-programming)
-  - [React.js Interfaces](#reactjs-interfaces)
   - [Routing](#routing)
   - [State Management](#state-management)
   - [Testing](#testing)
   - [Validation](#validation)
-  - [Web Frameworks & Templates](#web-frameworks--templates)
-  - [Web Sockets](#web-sockets)
+  - [Web Framework & Template](#web-framework--template)
+  - [Web Socket](#web-socket)
  
 
 - [Contributing](#contributing)
@@ -47,7 +47,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
 
 
-### Databases
+### Database
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 
@@ -98,17 +98,17 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 
 
-### Reactive Programming
-- [Javelin](https://github.com/tailrecursion/javelin) – A Functional Reactive Programming library for ClojureScript.
-- [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
-- [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
-
-
-### React.js Interfaces
+### React.js Interface
 - [Om](https://github.com/omcljs/om) — A powerful, makes uses of object oriented structures of React.
 - [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
+
+
+### Reactive Programming
+- [Javelin](https://github.com/tailrecursion/javelin) – A Functional Reactive Programming library for ClojureScript.
+- [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
+- [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
 
 ### Routing
@@ -131,7 +131,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [Validateur](http://clojurevalidations.info/) – A Clojure validation library inspired by Ruby's ActiveModel.
 
 
-### Web Frameworks & Templates
+### Web Framework & Template
 - [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
 - [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
 - [Clops](https://github.com/sveri/closp) – An opinioted, full stack and easy to use web framework.
@@ -143,7 +143,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [WebFUI](https://github.com/drcode/webfui) –  Client-Side Web Framework for ClojureScript.
 
 
-### Web Sockets
+### Web Socket
 - [Sente](https://github.com/ptaoussanis/sente) –  Clojure(Script) + core.async + WebSockets/Ajax.
 
 
