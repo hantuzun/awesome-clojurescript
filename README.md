@@ -3,6 +3,33 @@
 A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 
 
+  - [Canvas](#canvas)
+  - [Client/Server Communication](#clientserver-communication)
+  - [Data Serialization](#data-serialization)
+  - [Data Visualition](#data-visualition)
+  - [Databases](#databases)
+  - [Development](#development)
+  - [Document Object Model](#document-object-model)
+  - [HTTP Handler](#http-handler)
+  - [Internationalization](#internationalization)
+  - [JavaScript Interoperability](#javascript-interoperability)
+  - [Miscellaneous](#miscellaneous)
+  - [Reactive Programming](#reactive-programming)
+  - [React.js Interfaces](#reactjs-interfaces)
+  - [Routing](#routing)
+  - [State Management](#state-management)
+  - [Testing](#testing)
+  - [Validation](#validation)
+  - [Web Frameworks & Templates](#web-frameworks--templates)
+  - [Web Sockets](#web-sockets)
+ 
+
+- [Contributing](#contributing)
+- [License](#license)
+
+* * * 
+
+
 ### Canvas
 - [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
 
@@ -120,8 +147,11 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [Sente](https://github.com/ptaoussanis/sente) –  Clojure(Script) + core.async + WebSockets/Ajax.
 
 
-## Contributions
-All contributions are welcome. Please read the [Contributing](CONTRIBUTING.md) guide before opening a pull request.
+* * *
+
+
+## Contributing
+All contributions are welcome. Please read [Contributing](CONTRIBUTING.md) before opening a pull request.
 
 
 ## License
