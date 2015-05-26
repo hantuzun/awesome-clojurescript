@@ -100,6 +100,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 
 
 ### [React.js](https://facebook.github.io/react/) Interface
+- [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
 - [Om](https://github.com/omcljs/om) — A powerful, makes uses of object oriented structures of React.
 - [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
 - [re-com](https://github.com/Day8/re-com) –  A CojureScript library of reusable components for Reagent.
