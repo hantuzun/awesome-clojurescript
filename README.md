@@ -123,6 +123,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 
 
 ### State Management
+- [storage-atom](https://github.com/alandipert/storage-atom) –  ClojureScript atoms backed by HTML5 web storage.
 - [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
 
