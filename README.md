@@ -143,7 +143,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [Clops](https://github.com/sveri/closp) – An opinioted, full stack and easy to use web framework.
 - [Coils](http://coils.cc/) - Build enterprise ready web apps with Clojurescript and React.js, faster than ever.
 - [descjop](https://github.com/karad/lein_template_descjop) - A template for Web based desktop application with Electron.
-- [electron-template](https://github.com/ducky427/electron-template) - Another template for creating web based desktop applications with Electron, ClojureScript and Reagent. It was integrations for testing and producing release platform specific binaries.
+- [electron-template](https://github.com/ducky427/electron-template) - A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Mies](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
