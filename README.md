@@ -95,6 +95,7 @@ A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
 - [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
+- [Keybind](https://github.com/piranha/keybind) - Library for handling key bindings (shortcuts) in browser.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) –  Markdown parser in Clojure/ClojureScript.
 - [om-tools](https://github.com/Prismatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
