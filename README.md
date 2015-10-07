@@ -15,6 +15,7 @@
   - [Database](#database)
   - [Development](#development)
   - [Document Object Model](#document-object-model)
+  - [Graphics](#graphics)
   - [HTTP Handler](#http-handler)
   - [Internationalization](#internationalization)
   - [JavaScript Interoperability](#javascript-interoperability)
@@ -76,6 +77,10 @@
 - [json-html](https://github.com/yogthos/json-html) –  Provide JSON and get a DOM node with a human representation of that JSON.
 - [Kioo](https://github.com/ckirkendall/kioo) - DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
 - [Sablono](https://github.com/r0man/sablono) –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
+
+
+### Graphics
+- [geom](https://github.com/thi-ng/geom) – A  2D/3D geometry toolkit for Clojure/Clojurescript.
 
 
 ### HTTP Handler
