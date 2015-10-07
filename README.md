@@ -1,6 +1,11 @@
-# ClojureScript Awesome
+<img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
+     align="right"/>
 
-A community driven list of ClojureScript frameworks, libraries, wrappers, stuff.
+# Awesome ClojureScript 
+
+##### A community driven list of ClojureScript frameworks, libraries and wrappers.
+
+---
 
 
   - [Canvas](#canvas)
