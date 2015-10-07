@@ -129,6 +129,8 @@
 
 
 ### State Management
+- [hodgepodge](https://funcool.github.io/hodgepodge) – A idiomatic ClojureScript interface to HTML5 Storage.
+- [plato](https://github.com/eneroth/plato) –  Incrementally persists atom state to Local Storage in ClojureScript.
 - [storage-atom](https://github.com/alandipert/storage-atom) –  ClojureScript atoms backed by HTML5 web storage.
 - [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
