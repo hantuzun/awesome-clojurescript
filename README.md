@@ -59,6 +59,7 @@
 
 
 ### Development
+- [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) - Better presentation of ClojureScript values in Chrome Devtools.
 - [lein-cljsbuild](http://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
@@ -114,7 +115,7 @@
 
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
-- [Om](https://github.com/omcljs/om) — A powerful, makes uses of object oriented structures of React.
+- [Om](https://github.com/omcljs/om) — A powerful interface to React, makes use of its object oriented structures.
 - [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
 - [re-com](https://github.com/Day8/re-com) –  A CojureScript library of reusable components for Reagent.
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
