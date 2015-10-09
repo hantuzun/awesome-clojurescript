@@ -101,6 +101,7 @@
 
 ### Miscellaneous
 - [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
+- [Bardo](https://github.com/pleasetrythisathome/bardo) – A Clojure(Script) library for functional interpolation and transitions.
 - [core.async](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
 - [Entanglement](https://github.com/Frozenlock/entanglement) – It creates atoms from other atoms and links the data together.
 - [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
@@ -130,6 +131,7 @@
 
 
 ### Routing
+- [Bidi](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
 - [Secretary](https://github.com/gf3/secretary) –  A client-side router for ClojureScript.
 - [Silk](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
 
