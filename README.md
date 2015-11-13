@@ -61,7 +61,7 @@
 ### Development
 - [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) - Better presentation of ClojureScript values in Chrome Devtools.
-- [lein-cljsbuild](http://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
+- [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Ribol](http://docs.caudate.me/ribol/) –  Conditional restarts for clojure/clojurescript.
 - [shadow-build](https://github.com/thheller/shadow-build) – A ClojureScript build library capable of compiling multiple output files.
@@ -85,7 +85,7 @@
 
 
 ### HTTP Handler
-- [Castra](https://github.com/tailrecursion/castra) – An HTTP remote procedure call handler for Clojure.
+- [Castra](https://github.com/hoplon/castra) – An HTTP remote procedure call handler for Clojure.
 
 
 ### Internationalization
@@ -124,7 +124,7 @@
 
 
 ### Reactive Programming
-- [Javelin](https://github.com/tailrecursion/javelin) – A Functional Reactive Programming library for ClojureScript.
+- [Javelin](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
 - [Reagi](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 - [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 - [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
@@ -137,7 +137,7 @@
 
 
 ### State Management
-- [hodgepodge](https://funcool.github.io/hodgepodge) – A idiomatic ClojureScript interface to HTML5 Storage.
+- [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 - [plato](https://github.com/eneroth/plato) –  Incrementally persists atom state to Local Storage in ClojureScript.
 - [storage-atom](https://github.com/alandipert/storage-atom) –  ClojureScript atoms backed by HTML5 web storage.
 - [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
