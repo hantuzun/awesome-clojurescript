@@ -118,7 +118,7 @@
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
 - [Om](https://github.com/omcljs/om) — A powerful interface to React, makes use of its object oriented structures.
 - [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
-- [re-com](https://github.com/Day8/re-com) –  A CojureScript library of reusable components for Reagent.
+- [re-com](https://github.com/Day8/re-com) –  A ClojureScript library of reusable components for Reagent.
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
 
