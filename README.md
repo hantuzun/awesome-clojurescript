@@ -71,12 +71,13 @@
 ### Document Object Model
 - [cljs-binding](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
 - [Crate](https://github.com/ibdknox/crate) –  A ClojureScript implementation of Hiccup.
-- [Dominator](https://github.com/dubiousdavid/dominator) –  Virtual-Dom in ClojureScript.
+- [Dominator](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
 - [Dommy](https://github.com/Prismatic/dommy) –  A no-nonsense ClojureScript templating and DOM manipulation library.
-- [Enfocus](http://ckirkendall.github.io/enfocus-site/) –  DOM manipulation and templating library for ClojureScript inspired by Enlive.
+- [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.
+- [Freactive](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 - [Hiccups](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Hickory](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
-- [json-html](https://github.com/yogthos/json-html) –  Provide JSON and get a DOM node with a human representation of that JSON.
+- [json-html](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
 - [Kioo](https://github.com/ckirkendall/kioo) - DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
 - [Sablono](https://github.com/r0man/sablono) –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
