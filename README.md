@@ -72,7 +72,7 @@
 - [cljs-binding](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
 - [Crate](https://github.com/ibdknox/crate) –  A ClojureScript implementation of Hiccup.
 - [Dominator](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
-- [Dommy](https://github.com/Prismatic/dommy) –  A no-nonsense ClojureScript templating and DOM manipulation library.
+- [Dommy](https://github.com/plumatic/dommy) –  A no-nonsense ClojureScript templating and DOM manipulation library.
 - [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.
 - [Freactive](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 - [Hiccups](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
@@ -111,7 +111,7 @@
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 - [Keybind](https://github.com/piranha/keybind) - Library for handling key bindings (shortcuts) in browser.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) –  Markdown parser in Clojure/ClojureScript.
-- [om-tools](https://github.com/Prismatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
+- [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 - [reforms](https://github.com/bilus/reforms) -  Beautiful Bootstrap 3 forms for Om and Reagent.
 - [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
