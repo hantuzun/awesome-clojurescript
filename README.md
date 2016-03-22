@@ -114,6 +114,7 @@
 - [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 - [reforms](https://github.com/bilus/reforms) -  Beautiful Bootstrap 3 forms for Om and Reagent.
+- [reagent-forms](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 - [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 
