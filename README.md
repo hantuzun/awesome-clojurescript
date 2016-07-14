@@ -42,9 +42,8 @@
 
 
 ### Client/Server Communication
-- [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 - Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) - A pair of libries to sync data among clients, based on WebSocets and diff/patch.
-
+- [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 ### Data Serialization
 - [Cljson](https://github.com/tailrecursion/cljson) –  Clojure/ClojureScript library for accelerated browser data deserialization.
@@ -117,10 +116,9 @@
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 - [reforms](https://github.com/bilus/reforms) -  Beautiful Bootstrap 3 forms for Om and Reagent.
 - [reagent-forms](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
-- [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 - [Respo](https://github.com/mvc-works/respo) - A **Respo**nsive DOM library, inspired by React.
 - [Sepal.clj](https://github.com/Cirru/sepal.clj) - A library to generate Clojure code from a vector of strings and vectors with macro system.
-
+- [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
