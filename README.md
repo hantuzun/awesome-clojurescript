@@ -150,7 +150,7 @@
 
 
 ### Testing
-- [clojurescript.test](https://github.com/cemerick/clojurescript.test) – A maximal port of clojure.test to ClojureScript.
+- [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (merged from [clojurescript.test](https://github.com/cemerick/clojurescript.test)) 
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 - [Speclj](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 - [test.check](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
