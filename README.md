@@ -11,7 +11,7 @@
   - [Canvas](#canvas)
   - [Client/Server Communication](#clientserver-communication)
   - [Data Serialization](#data-serialization)
-  - [Data Visualition](#data-visualition)
+  - [Data Visualization](#data-visualization)
   - [Database](#database)
   - [Development](#development)
   - [Document Object Model](#document-object-model)
@@ -50,7 +50,7 @@
 - [Transit](https://github.com/cognitect/transit-cljs) –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
-### Data Visualition
+### Data Visualization
 - [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
 
 
