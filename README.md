@@ -134,6 +134,7 @@
 - [Reagi](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 - [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 - [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
+- [Manifold-cljs](https://github.com/dm3/manifold-cljs) — A port of [Manifold](https://github.com/ztellman/manifold) to ClojureScript.
 
 
 ### Routing
