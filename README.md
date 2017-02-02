@@ -98,7 +98,7 @@
 ### JavaScript Interoperability
 - [CLJSJS](http://cljsjs.github.io/) – An easy way for Clojurescript developers to depend on Javascript libraries.
 - [Jayq](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
-- [Purnam](http://purnam.github.io/purnam/) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
+- [Purnam](https://github.com/zcaudate/purnam) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
 - [Pylon](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
 
