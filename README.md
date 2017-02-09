@@ -144,7 +144,9 @@
 
 
 ### State Management
+- [component](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(Script).
 - [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
+- [mount](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
 - [plato](https://github.com/eneroth/plato) –  Incrementally persists atom state to Local Storage in ClojureScript.
 - [storage-atom](https://github.com/alandipert/storage-atom) –  ClojureScript atoms backed by HTML5 web storage.
 - [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
