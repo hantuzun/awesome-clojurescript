@@ -146,6 +146,7 @@
 - [Bidi](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
 - [Secretary](https://github.com/gf3/secretary) –  A client-side router for ClojureScript.
 - [Silk](https://github.com/DomKM/silk) – An isomorphic routing library for Clojure & ClojureScript.
+- [Router](https://github.com/darkleaf/router) - Bidirectional Ring router for Clojure/Script. REST oriented.
 
 
 ### State Management
