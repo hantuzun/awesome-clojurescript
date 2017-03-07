@@ -188,7 +188,8 @@
 
 
 ### Web Socket
-- [Sente](https://github.com/ptaoussanis/sente) –  Clojure(Script) + core.async + WebSockets/Ajax.
+– [Chord](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
+- [Sente](https://github.com/ptaoussanis/sente) – Clojure(Script) + core.async + WebSockets/Ajax.
 
 
 * * *
