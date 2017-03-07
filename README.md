@@ -64,6 +64,7 @@
 ### Development
 - [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) - Better presentation of ClojureScript values in Chrome Devtools.
+- [Devcards](https://github.com/bhauman/devcards) – Devcards aims to provide a visual REPL experience for ClojureScript.
 - [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Ribol](http://docs.caudate.me/ribol/) –  Conditional restarts for clojure/clojurescript.
