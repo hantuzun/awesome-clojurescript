@@ -28,7 +28,7 @@
   - [Testing](#testing)
   - [Validation](#validation)
   - [Web Framework & Template](#web-framework--template)
-  - [Web Socket](#web-socket)
+  - [WebSockets](#websockets)
 
 
 - [Contributing](#contributing)
@@ -188,8 +188,8 @@
 - [WebFUI](https://github.com/drcode/webfui) –  Client-Side Web Framework for ClojureScript.
 
 
-### Web Socket
-– [Chord](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
+### WebSockets
+- [Chord](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 - [Sente](https://github.com/ptaoussanis/sente) – Clojure(Script) + core.async + WebSockets/Ajax.
 
 
