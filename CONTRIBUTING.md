@@ -1,13 +1,12 @@
 # Contributing
 
-All contributions are welcome!
-
-To keep this guide coherent here are a few guidelines to check before opening pull requests:
-- Titles and items should be sorted alphabetically.
-- Names should be capitalized unless they contain a dash.
-- Descriptions and links should be separated by an en-dash, not a hyphen. You can type en-dash with `⌥ ` + `-` on Macs.
-- Descriptions should be a short sentence.
-- Descriptions should be punctiated.
+To keep this guide coherent here are a few guidelines:
+- Sections and libraries must be sorted alphabetically.
+- Descriptions should be a short sentence with proper punctiation.
+- Descriptions and links must be separated by an en-dash (`–`), not a hyphen (`-`).
 - Summary of changes could be described briefly in commit and pull request messages.
 
-Thank you for reading!
+An example entry:
+```
+- [Om](https://github.com/omcljs/om) — A powerful interface to React, makes use of its object oriented structures.
+```
