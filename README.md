@@ -176,7 +176,6 @@
 - [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
 - [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
 - [Clops](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
-- [Coils](http://coils.cc/) - Build enterprise ready web apps with Clojurescript and React.js, faster than ever.
 - [descjop](https://github.com/karad/lein_template_descjop) - A template for Web based desktop application with Electron.
 - [electron-template](https://github.com/ducky427/electron-template) - A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
