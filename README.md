@@ -10,6 +10,7 @@
 
   - [Canvas](#canvas)
   - [Client/Server Communication](#clientserver-communication)
+  - [Code Analysis](#code-analysis)
   - [Data Serialization](#data-serialization)
   - [Data Visualization](#data-visualization)
   - [Database](#database)
