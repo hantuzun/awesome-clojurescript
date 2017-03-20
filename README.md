@@ -46,6 +46,11 @@
 - Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) - A pair of libries to sync data among clients, based on WebSocets and diff/patch.
 - [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
+
+### Code Analysis
+- [kibit](https://github.com/jonase/kibit) — Static code analyzer to find patterns of code that could be rewritten with a more idiomatic function or macro.
+
+
 ### Data Serialization
 - [Cljson](https://github.com/tailrecursion/cljson) –  Clojure/ClojureScript library for accelerated browser data deserialization.
 - [Transit](https://github.com/cognitect/transit-cljs) –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
