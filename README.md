@@ -40,11 +40,11 @@
 
 ### Canvas
 - [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
-- [Quamolit](https://github.com/Quamolit/quamolit) - A tiny declarative animation library , inspired by React.
+- [Quamolit](https://github.com/Quamolit/quamolit) – A tiny declarative animation library , inspired by React.
 
 
 ### Client/Server Communication
-- Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) - A pair of libries to sync data among clients, based on WebSocets and diff/patch.
+- Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) – A pair of libries to sync data among clients, based on WebSocets and diff/patch.
 - [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 
@@ -53,8 +53,8 @@
 
 
 ### Data Serialization
-- [Cljson](https://github.com/tailrecursion/cljson) –  Clojure/ClojureScript library for accelerated browser data deserialization.
-- [Transit](https://github.com/cognitect/transit-cljs) –  A data interchange format and set of libraries for conveying values between applications written in different programming languages.
+- [Cljson](https://github.com/tailrecursion/cljson) – Clojure/ClojureScript library for accelerated browser data deserialization.
+- [Transit](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
 ### Data Visualization
@@ -64,15 +64,15 @@
 ### Database
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
-- [Konserve](https://github.com/replikativ/konserve) –  A clojuresque key-value/document store protocol with core.async.
+- [Konserve](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
 
 
 ### Development
 - [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
-- [cljs-devtools](https://github.com/binaryage/cljs-devtools) - Better presentation of ClojureScript values in Chrome Devtools.
+- [cljs-devtools](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
 - [Devcards](https://github.com/bhauman/devcards) – Devcards aims to provide a visual REPL experience for ClojureScript.
 - [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
-- [lein-figwheel](https://github.com/bhauman/lein-figwheel) –  Leiningen plugin that pushes ClojureScript code changes to the client.
+- [lein-figwheel](https://github.com/bhauman/lein-figwheel) – Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
 - [shadow-build](https://github.com/thheller/shadow-build) – A ClojureScript build library capable of compiling multiple output files.
@@ -80,16 +80,16 @@
 
 ### Document Object Model
 - [cljs-binding](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
-- [Crate](https://github.com/ibdknox/crate) –  A ClojureScript implementation of Hiccup.
+- [Crate](https://github.com/ibdknox/crate) – A ClojureScript implementation of Hiccup.
 - [Dominator](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
-- [Dommy](https://github.com/plumatic/dommy) –  A no-nonsense ClojureScript templating and DOM manipulation library.
+- [Dommy](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
 - [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.
 - [Freactive](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 - [Hiccups](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Hickory](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 - [json-html](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
-- [Kioo](https://github.com/ckirkendall/kioo) - DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
-- [Sablono](https://github.com/r0man/sablono) –  Lisp/Hiccup style templating for Facebook's React in ClojureScript.
+- [Kioo](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
+- [Sablono](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 
 ### Documentation
@@ -97,7 +97,7 @@
 
 
 ### Graphics
-- [geom](https://github.com/thi-ng/geom) – A  2D/3D geometry toolkit for Clojure/Clojurescript.
+- [geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 
 
 ### HTTP Handler
@@ -123,21 +123,21 @@
 - [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
-- [Keybind](https://github.com/piranha/keybind) - Library for handling key bindings (shortcuts) in browser.
-- [markdown-clj](https://github.com/yogthos/markdown-clj) –  Markdown parser in Clojure/ClojureScript.
+- [Keybind](https://github.com/piranha/keybind) – Library for handling key bindings (shortcuts) in browser.
+- [markdown-clj](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
 - [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
-- [reforms](https://github.com/bilus/reforms) -  Beautiful Bootstrap 3 forms for Om and Reagent.
+- [reforms](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
 - [reagent-forms](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
-- [Respo](https://github.com/mvc-works/respo) - A **Respo**nsive DOM library, inspired by React.
-- [Sepal.clj](https://github.com/Cirru/sepal.clj) - A library to generate Clojure code from a vector of strings and vectors with macro system.
+- [Respo](https://github.com/mvc-works/respo) – A **Respo**nsive DOM library, inspired by React.
+- [Sepal.clj](https://github.com/Cirru/sepal.clj) – A library to generate Clojure code from a vector of strings and vectors with macro system.
 - [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
 - [Om](https://github.com/omcljs/om) — A powerful interface to React, makes use of its object oriented structures.
 - [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
-- [re-com](https://github.com/Day8/re-com) –  A ClojureScript library of reusable components for Reagent.
+- [re-com](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
 
@@ -161,8 +161,8 @@
 - [component](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(Script).
 - [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 - [mount](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
-- [plato](https://github.com/eneroth/plato) –  Incrementally persists atom state to Local Storage in ClojureScript.
-- [storage-atom](https://github.com/alandipert/storage-atom) –  ClojureScript atoms backed by HTML5 web storage.
+- [plato](https://github.com/eneroth/plato) – Incrementally persists atom state to Local Storage in ClojureScript.
+- [storage-atom](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
 - [Waltz](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
 
@@ -180,17 +180,17 @@
 
 ### Web Framework & Template
 - [atw-om](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
-- [Chestnut](https://github.com/plexus/chestnut) –  An Application template for ClojureScript/Om with live reloading.
+- [Chestnut](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
 - [Clops](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
-- [descjop](https://github.com/karad/lein_template_descjop) - A template for Web based desktop application with Electron.
-- [electron-template](https://github.com/ducky427/electron-template) - A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
+- [descjop](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
+- [electron-template](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Macchiato](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 - [Mies](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
-- [WebFUI](https://github.com/drcode/webfui) –  Client-Side Web Framework for ClojureScript.
+- [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
 
 ### WebSockets
