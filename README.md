@@ -7,7 +7,7 @@
 
 ---
 
-
+  - [Books](#books)
   - [Canvas](#canvas)
   - [Client/Server Communication](#clientserver-communication)
   - [Code Analysis](#code-analysis)
@@ -37,6 +37,8 @@
 
 * * *
 
+### Books
+- [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) – A Beginner's guide to ClojureScript with interactive examples and exercises
 
 ### Canvas
 - [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
