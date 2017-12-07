@@ -188,6 +188,7 @@
 - [Clops](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
 - [descjop](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
 - [electron-template](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
+- [Fulcro](http://fulcrologic.github.io/fulcro) - A library for development of single-page full-stack web applications in clj/cljs.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
