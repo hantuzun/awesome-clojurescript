@@ -188,11 +188,13 @@
 - [Clops](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
 - [descjop](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
 - [electron-template](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
+- [Fulcro](http://fulcrologic.github.io/fulcro) - A library for development of single-page full-stack web applications in clj/cljs.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Macchiato](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 - [Mies](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
+- [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework.
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
 - [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
