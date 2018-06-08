@@ -46,6 +46,7 @@
 
 
 ### Client/Server Communication
+- [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 - Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client](https://github.com/Cumulo/cumulo-client) – A pair of libries to sync data among clients, based on WebSocets and diff/patch.
 - [Fetch](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
