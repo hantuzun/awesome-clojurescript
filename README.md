@@ -38,6 +38,7 @@
 * * *
 
 ### Books
+- [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) – A comprehensive introduction to the ClojureScript language and its idiomatic usage.
 - [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) – A Beginner's guide to ClojureScript with interactive examples and exercises
 
 ### Canvas
