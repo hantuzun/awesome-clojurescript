@@ -120,13 +120,16 @@
 - [Purnam](https://github.com/zcaudate/purnam) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
 - [Pylon](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
+### CSS tools
+
+- [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
+- [stylefy](https://github.com/jarzka/stylefy) – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
 
 ### Miscellaneous
 - [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
 - [Bardo](https://github.com/pleasetrythisathome/bardo) – A Clojure(Script) library for functional interpolation and transitions.
 - [core.async](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
 - [Entanglement](https://github.com/Frozenlock/entanglement) – It creates atoms from other atoms and links the data together.
-- [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 - [Keybind](https://github.com/piranha/keybind) – Library for handling key bindings (shortcuts) in browser.
