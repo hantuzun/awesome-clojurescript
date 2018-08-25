@@ -69,7 +69,7 @@
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 - [Konserve](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
-
+- [specql](https://github.com/tatut/specql) – Library for simple PostgreSQL queries with namespaced keys.
 
 ### Development
 - [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
