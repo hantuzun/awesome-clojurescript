@@ -40,6 +40,7 @@
 ### Books
 - [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) – A comprehensive introduction to the ClojureScript language and its idiomatic usage.
 - [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) – A Beginner's guide to ClojureScript with interactive examples and exercises
+- [Get Programming with Clojure](https://www.manning.com/books/get-programming-with-clojure) – Great guide through exercises, examples, and projects that teach you to build fast, robust, applications with Clojure
 
 ### Canvas
 - [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
