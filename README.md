@@ -181,6 +181,7 @@
 
 ### Validation
 - [Bouncer](https://github.com/leonardoborges/bouncer) – A validation DSL for Clojure & Clojurescript applications.
+- [form-validator-cljs](https://github.com/kwladyka/form-validator-cljs) – Validate forms with spec and fn.
 - [Validateur](http://clojurevalidations.info/) – A Clojure validation library inspired by Ruby's ActiveModel.
 
 
