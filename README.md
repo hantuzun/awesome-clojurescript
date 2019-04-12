@@ -103,6 +103,7 @@
 
 ### Graphics
 - [geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
+- [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 
 
 ### HTTP Handler
@@ -132,7 +133,6 @@
 - [Keybind](https://github.com/piranha/keybind) – Library for handling key bindings (shortcuts) in browser.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
 - [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
-- [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 - [reforms](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
 - [reagent-forms](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 - [Respo](https://github.com/mvc-works/respo) – A **Respo**nsive DOM library, inspired by React.
