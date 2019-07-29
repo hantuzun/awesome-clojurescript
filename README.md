@@ -141,6 +141,7 @@
 
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
+- [hx](https://github.com/Lokeh/hx) - A simple, easy to use library for React development in ClojureScript. 
 - [Om](https://github.com/omcljs/om) — A powerful interface to React, makes use of its object oriented structures.
 - [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
 - [re-com](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
