@@ -4,43 +4,52 @@
 
 # Awesome ClojureScript
 
-##### A community driven list of ClojureScript frameworks, libraries and wrappers.
-
----
-
-  - [Books](#books)
-  - [Canvas](#canvas)
-  - [Client/Server Communication](#clientserver-communication)
-  - [Code Analysis](#code-analysis)
-  - [Data Serialization](#data-serialization)
-  - [Data Visualization](#data-visualization)
-  - [Database](#database)
-  - [Development](#development)
-  - [Document Object Model](#document-object-model)
-  - [Documentation](#documentation)
-  - [Graphics](#graphics)
-  - [HTTP Handler](#http-handler)
-  - [Internationalization](#internationalization)
-  - [JavaScript Interoperability](#javascript-interoperability)
-  - [Miscellaneous](#miscellaneous)
-  - [React.js Interface](#reactjs-interface)
-  - [Reactive Programming](#reactive-programming)
-  - [Routing](#routing)
-  - [State Management](#state-management)
-  - [Testing](#testing)
-  - [Validation](#validation)
-  - [Web Framework & Template](#web-framework--template)
-  - [WebSockets](#websockets)
-
-
-- [Contributing](#contributing)
-- [License](#license)
+##### A community driven list of ClojureScript books, frameworks, libraries and wrappers.
 
 * * *
+
+  - [Resources](#resources)
+      - [Books](#books)
+  - [Awesome ClojureScript](#awesome-clojurescript)
+      - [Canvas](#canvas)
+      - [Client/Server Communication](#clientserver-communication)
+      - [Code Analysis](#code-analysis)
+      - [Data Serialization](#data-serialization)
+      - [Data Visualization](#data-visualization)
+      - [Database](#database)
+      - [Development](#development)
+      - [Document Object Model](#document-object-model)
+      - [Documentation](#documentation)
+      - [Graphics](#graphics)
+      - [HTTP Handler](#http-handler)
+      - [Internationalization](#internationalization)
+      - [JavaScript Interoperability](#javascript-interoperability)
+      - [Miscellaneous](#miscellaneous)
+      - [React.js Interface](#reactjs-interface)
+      - [Reactive Programming](#reactive-programming)
+      - [Routing](#routing)
+      - [State Management](#state-management)
+      - [Testing](#testing)
+      - [Validation](#validation)
+      - [Web Framework & Template](#web-framework--template)
+      - [WebSockets](#websockets)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+
+* * *
+
+
+## Resources
+
 
 ### Books
 - [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) – A comprehensive introduction to the ClojureScript language and its idiomatic usage.
 - [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) – A Beginner's guide to ClojureScript with interactive examples and exercises.
+
+
+## Awesome ClojureScript
+
 
 ### Canvas
 - [Monet](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
@@ -53,7 +62,7 @@
 
 
 ### Code Analysis
-- [kibit](https://github.com/jonase/kibit) — Static code analyzer to find patterns of code that could be rewritten with a more idiomatic function or macro.
+- [kibit](https://github.com/jonase/kibit) – Static code analyzer to find patterns of code that could be rewritten with a more idiomatic function or macro.
 
 
 ### Data Serialization
@@ -73,16 +82,16 @@
 
 
 ### Development
-- [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
+- [Ambly](https://github.com/omcljs/ambly) – A ClojureScript REPL into iOS JavaScriptCore.
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
 - [Devcards](https://github.com/bhauman/devcards) – Devcards aims to provide a visual REPL experience for ClojureScript.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
-- [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
+- [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) – A Leiningen plugin to make ClojureScript development easy.
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) – Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Lumo](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
-- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
+- [shadow-cljs](https://github.com/thheller/shadow-cljs) – ClojureScript compilation made easy
 - [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 
@@ -115,8 +124,8 @@
 
 
 ### Internationalization
+- [Tempura](https://github.com/ptaoussanis/tempura) – A Clojure(Script) i18n library, succeeding Tower
 - [Tower](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
-- [Tempura](https://github.com/ptaoussanis/tempura) - A Clojure(Script) i18n library, succeeding Tower
 
 
 ### JavaScript Interoperability
@@ -125,10 +134,11 @@
 - [Purnam](https://github.com/zcaudate/purnam) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
 - [Pylon](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
-### CSS tools
 
+### CSS tools
 - [Garden](https://github.com/noprompt/garden) – A library for rendering CSS in Clojure and ClojureScript.
 - [stylefy](https://github.com/jarzka/stylefy) – stylefy makes it possible to define UI component styles as Clojure data and attach them into components easily without writing CSS selectors
+
 
 ### Miscellaneous
 - [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
@@ -147,17 +157,17 @@
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
 - [cljsx](https://github.com/peterhudec/cljsx) – [JSX](https://reactjs.org/docs/introducing-jsx.html) for Clojure and ClojureScript, also works with [Inferno](https://infernojs.org), [Nerv](https://nerv.aotu.io/), [Preact](https://preactjs.com/), [Snabbdome](https://github.com/snabbdom/snabbdom) and others.
-- [hx](https://github.com/Lokeh/hx) - A simple, easy to use library for React development in ClojureScript. 
-- [Om](https://github.com/omcljs/om) — A powerful interface to React, makes use of its object oriented structures.
-- [Quiescent](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
+- [hx](https://github.com/Lokeh/hx) – A simple, easy to use library for React development in ClojureScript. 
+- [Om](https://github.com/omcljs/om) – A powerful interface to React, makes use of its object oriented structures.
+- [Quiescent](https://github.com/levand/quiescent) – It favors functional style, fully stateless.
 - [re-com](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
-- [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
-- [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
+- [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
+- [Rum](https://github.com/tonsky/rum) – Decomplected, extensible, simple.
 
 
 ### Reactive Programming
 - [Javelin](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
-- [Manifold-cljs](https://github.com/dm3/manifold-cljs) — A port of [Manifold](https://github.com/ztellman/manifold) to ClojureScript.
+- [Manifold-cljs](https://github.com/dm3/manifold-cljs) – A port of [Manifold](https://github.com/ztellman/manifold) to ClojureScript.
 - [Reagi](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 - [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
 - [Yolk](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
@@ -199,14 +209,14 @@
 - [Clops](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
 - [descjop](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
 - [electron-template](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
-- [Fulcro](http://fulcrologic.github.io/fulcro) - A library for development of single-page full-stack web applications in clj/cljs.
+- [Fulcro](http://fulcrologic.github.io/fulcro) – A library for development of single-page full-stack web applications in clj/cljs.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Macchiato](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 - [Mies](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
-- [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) - A reagent compatible library without react.js dependency.
-- [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework.
+- [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) – A reagent compatible library without react.js dependency.
+- [Precept](https://github.com/CoNarrative/precept) – A declarative programming framework.
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
 - [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
@@ -221,7 +231,7 @@
 
 
 ## Contributing
-All contributions are welcome. Please read [Contributing](CONTRIBUTING.md) before opening a pull request.
+All contributions are welcome. Please read [Contributing](CONTRIBUTING.md) before opening a pull request. tl;dr `-` is for bullets, `–` is for seperators between the link and the description and lists should be alphabetically ordered.
 
 
 ## License
