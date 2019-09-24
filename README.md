@@ -134,6 +134,7 @@
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 - [Keybind](https://github.com/piranha/keybind) – Library for handling key bindings (shortcuts) in browser.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
+- [namespacefy](https://github.com/Jarzka/namespacefy) – A simple Clojure(Script) library which aims to make it easy to keep map keys namespaced, no matter where your data comes from.
 - [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 - [reforms](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
