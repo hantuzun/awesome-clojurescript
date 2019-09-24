@@ -71,16 +71,19 @@
 - [Konserve](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
 - [specql](https://github.com/tatut/specql) – Library for simple PostgreSQL queries with namespaced keys.
 
+
 ### Development
 - [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
 - [Devcards](https://github.com/bhauman/devcards) – Devcards aims to provide a visual REPL experience for ClojureScript.
+- [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 - [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) – Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Lumo](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
 - [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
+- [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 
 ### Document Object Model
@@ -94,6 +97,7 @@
 - [Hickory](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 - [json-html](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
 - [Kioo](https://github.com/ckirkendall/kioo) – DOM manipulation and templating library for Facebook's React and Om in ClojureScript.
+- [Respo](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
 - [Sablono](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
 
@@ -132,16 +136,13 @@
 - [core.async](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
 - [Entanglement](https://github.com/Frozenlock/entanglement) – It creates atoms from other atoms and links the data together.
 - [inflections-clj](https://github.com/r0man/inflections-clj) – Rails-like inflection library for Clojure and ClojureScript.
-- [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – It aims to be the simplest way to build parsers in ClojureScript.
 - [Keybind](https://github.com/piranha/keybind) – Library for handling key bindings (shortcuts) in browser.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
 - [namespacefy](https://github.com/Jarzka/namespacefy) – A simple Clojure(Script) library which aims to make it easy to keep map keys namespaced, no matter where your data comes from.
 - [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [reforms](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
 - [reagent-forms](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
-- [Respo](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
 - [Sepal.clj](https://github.com/Cirru/sepal.clj) – A library to generate Clojure code from a vector of strings and vectors with macro system.
-- [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
