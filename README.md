@@ -139,7 +139,7 @@
 - [om-tools](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 - [reforms](https://github.com/bilus/reforms) – Beautiful Bootstrap 3 forms for Om and Reagent.
 - [reagent-forms](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
-- [Respo](https://github.com/mvc-works/respo) – A **Respo**nsive DOM library, inspired by React.
+- [Respo](https://github.com/mvc-works/respo) – A responsive DOM library, inspired by React.
 - [Sepal.clj](https://github.com/Cirru/sepal.clj) – A library to generate Clojure code from a vector of strings and vectors with macro system.
 - [Truss](https://github.com/ptaoussanis/truss) – An opinionated assertions API for Clojure/ClojureScript.
 
@@ -204,11 +204,11 @@
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Macchiato](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 - [Mies](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
+- [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) - A reagent compatible library without react.js dependency.
 - [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework.
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
 - [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
-- [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) - A reagent compatible library without react.js dependency.
 
 
 ### WebSockets
