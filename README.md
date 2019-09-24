@@ -44,8 +44,23 @@
 
 
 ### Books
-- [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) – A comprehensive introduction to the ClojureScript language and its idiomatic usage.
-- [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) – A Beginner's guide to ClojureScript with interactive examples and exercises.
+- [ClojureScript Unraveled](https://leanpub.com/clojurescript-unraveled) – An open source book about the ClojureScript language that covers all the language features, how to use the compiler and the tooling for building applications and libraries.
+- [ClojureScript: Up and Running](https://shop.oreilly.com/product/0636920025139.do) – An introduction to ClojureScript written by big guns of Clojure Stuart Sierra and Luke VanderHart.
+- [Etudes for ClojureScript](https://shop.oreilly.com/product/0636920043584.do) – A hands-on-book of 30 companion exercises or études for introducing ClojureScript.
+- [Learning ClojureScript](https://www.packtpub.com/web-development/learning-clojurescript) – Master the art of agile single page web application development with ClojureScript.
+- [Transforming Data with ClojureScript](https://langintro.com/cljsbook) – A beginner's guide to ClojureScript with interactive examples and exercises, "focusing on the main task that programming does—transforming data".
+
+
+### Courses
+- [ClojureScript Koans](http://clojurescriptkoans.com/) – A great way to start learning Clojure and ClojureScript on the web with interactive challanges.
+- [Lambda Island](https://lambdaisland.com/) – A full-stack web development course including front-end with ClojureScript, back-end with Clojure, language essentials, security, internet standards and system administration.
+- [Learn Reagent](https://www.learnreagent.com/) – An introduction to ClojureScript with Reagent for developers. 1 hour free content is available. [learn re-frame](https://www.learnreframe.com/) is its follow up.
+- [Learning ClojureScript](https://purelyfunctional.tv/) – A 2h 11m long introduction to Clojurescript by O'Really Online Learning. Also available on [Udemy](https://www.udemy.com/course/learning-clojurescript/).
+
+
+### Videos
+- [ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI) – Derek Slager's talk for Clojure Conj 2015 where he is Discussing the many reasons why ClojureScript is in fact a very pragmatic language to consider for web development.
+- [Interactive programming Flappy Bird in ClojureScript](https://www.youtube.com/watch?v=KZjFVdU8VLI) – A 5 minutes video from 2014 demostrating the power of ClojureScript's developer experience.
 
 
 ## Awesome ClojureScript
