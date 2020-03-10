@@ -10,7 +10,7 @@
 
   - [Resources](#resources)
       - [Books](#books)
-  - [Awesome ClojureScript](#awesome-clojurescript)
+  - [Awesome ClojureScript](#awesome-clojurescript-1)
       - [Canvas](#canvas)
       - [Client/Server Communication](#clientserver-communication)
       - [Code Analysis](#code-analysis)
