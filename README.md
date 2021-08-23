@@ -49,6 +49,7 @@
 - [Etudes for ClojureScript](https://shop.oreilly.com/product/0636920043584.do) – A hands-on-book of 30 companion exercises or études for introducing ClojureScript.
 - [Learning ClojureScript](https://www.packtpub.com/web-development/learning-clojurescript) – Master the art of agile single page web application development with ClojureScript.
 - [Transforming Data with ClojureScript](https://langintro.com/cljsbook) – A beginner's guide to ClojureScript with interactive examples and exercises, "focusing on the main task that programming does—transforming data".
+- [Clojure, The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference) – A reference book on the Clojure language and standard library.
 
 
 ### Courses
