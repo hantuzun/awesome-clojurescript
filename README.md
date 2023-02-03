@@ -45,6 +45,7 @@
 
 ### Books
 - [ClojureScript Unraveled](https://leanpub.com/clojurescript-unraveled) – An open source book about the ClojureScript language that covers all the language features, how to use the compiler and the tooling for building applications and libraries.
+- [ClojureScript Unraveled (2nd edition)](https://funcool.github.io/clojurescript-unraveled/) – An open source book about the ClojureScript language that covers all the language features, how to use the compiler and the tooling for building applications and libraries.
 - [ClojureScript: Up and Running](https://shop.oreilly.com/product/0636920025139.do) – An introduction to ClojureScript written by big guns of Clojure Stuart Sierra and Luke VanderHart.
 - [Clojure, The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference) – A reference book on the Clojure language and standard library.
 - [Etudes for ClojureScript](https://shop.oreilly.com/product/0636920043584.do) – A hands-on-book of 30 companion exercises or études for introducing ClojureScript.
