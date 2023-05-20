@@ -134,6 +134,7 @@
 
 ### Graphics
 - [geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
+- [p5.cljs web editor](https://github.com/somecho/p5-cljs-web-editor) - A web editor for writing p5 sketches in ClojureScript
 - [Quil](https://github.com/quil/quil) – A processing and graphics programming library.
 
 
