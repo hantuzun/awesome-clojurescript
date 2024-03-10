@@ -182,6 +182,7 @@
 - [re-com](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
 - [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) – Decomplected, extensible, simple.
+- [UIx](https://github.com/pitch-io/uix) – Idiomatic ClojureScript interface to modern React.js.
 
 
 ### Reactive Programming
