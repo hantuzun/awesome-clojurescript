@@ -182,6 +182,7 @@
 - [re-com](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
 - [Reagent](http://reagent-project.github.io/) – Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) – Decomplected, extensible, simple.
+- [UIx](https://github.com/pitch-io/uix) – Idiomatic ClojureScript interface to modern React.js.
 
 
 ### Reactive Programming
@@ -238,7 +239,6 @@
 - [Precept](https://github.com/CoNarrative/precept) – A declarative programming framework.
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
-- [UIx](https://github.com/pitch-io/uix) – Idiomatic ClojureScript interface to modern React.js.
 - [WebFUI](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
 
